@@ -1,0 +1,3 @@
+Request: curl --request DELETE 'http://www.pokemon.com'
+Response:
+Method not allowed: delete
